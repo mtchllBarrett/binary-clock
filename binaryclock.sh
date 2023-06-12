@@ -4,6 +4,11 @@
 #
 #
 # I need date +%I, +%M, and +%S
+#
+# branch sample
+# adding random comment lines for a new branch
+# sample branch
+# it turns out this did work, though it's very scuffed
 
 get_digit () {
 	STR=$1
